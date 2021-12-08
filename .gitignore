@@ -110,3 +110,4 @@ venv.bak/
 # no data file should be uploaded
 data
 aclImdb
+.DS_Store
